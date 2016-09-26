@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+    <string-array name="title">
+        <item>CSE</item>
+        <item>It</item>
+        <item>MECH</item>
+        <item>EEE</item>
+        <item>ECE</item>
+        <item>CIVIL</item>
+        <item>MBA</item>
+        <item>MCA</item>
+        <item>MTECH</item>
+        <item>MSC</item>
+    </string-array>
+    <string-array name="description">
+        <item>Computer Science And Engineering</item>
+        <item>Information Technology</item>
+        <item>Mechanical</item>
+        <item>Elecrical and Electronics Engineering</item>
+        <item>Electrical communication Engineering</item>
+        <item>Civil Engineerring</item>
+        <item>MBA</item>
+        <item>MCA</item>
+        <item>MTECH</item>
+        <item>MSC</item>
+    </string-array>
+</resources>
